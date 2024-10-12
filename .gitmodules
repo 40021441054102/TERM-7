@@ -16,3 +16,6 @@
 [submodule "Network-Lab"]
 	path = Network-Lab
 	url = https://github.com/40021441054102/Network-Lab.git
+[submodule "Software-Engineering"]
+	path = Software-Engineering
+	url = https://github.com/40021441054102/Software-Engineering.git
