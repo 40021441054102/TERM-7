@@ -10,3 +10,6 @@
 [submodule "Database-Lab"]
 	path = Database-Lab
 	url = https://github.com/40021441054102/Database-Lab.git
+[submodule "Signals-and-Systems"]
+	path = Signals-and-Systems
+	url = https://github.com/40021441054102/Signals-and-Systems.git
