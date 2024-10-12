@@ -7,3 +7,6 @@
 [submodule "Electric-Circuits"]
 	path = Electric-Circuits
 	url = https://github.com/40021441054102/Electric-Circuits.git
+[submodule "Database-Lab"]
+	path = Database-Lab
+	url = https://github.com/40021441054102/Database-Lab.git
