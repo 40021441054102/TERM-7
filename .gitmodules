@@ -13,3 +13,6 @@
 [submodule "Signals-and-Systems"]
 	path = Signals-and-Systems
 	url = https://github.com/40021441054102/Signals-and-Systems.git
+[submodule "Network-Lab"]
+	path = Network-Lab
+	url = https://github.com/40021441054102/Network-Lab.git
